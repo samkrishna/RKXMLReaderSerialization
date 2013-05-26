@@ -35,7 +35,7 @@
  */
 
 #import "TBXML+NSDictionary.h"
-#import <RestKit/Support/RKSerialization.h>
+#import <RestKit/RKSerialization.h>
 
 @interface RKXMLReaderSerialization : NSObject <RKSerialization>
 @end
